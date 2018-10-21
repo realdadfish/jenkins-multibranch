@@ -2,4 +2,4 @@
 
 Simple test repository with several branches to demonstrate Jenkins Multibranch Pipelines.
 
-A small addition that is part of a PR.
+A small addition that is part of a PR. And some more text.
